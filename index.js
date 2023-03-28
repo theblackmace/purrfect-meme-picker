@@ -1,4 +1,5 @@
 import {catsData} from './data.js';
+
 const emotionEl = document.querySelector('#emotion-radios');
 const getImageBtn = document.querySelector('#get-image-btn');
 const gifsOnly = document.querySelector('#gifs-only-option');
